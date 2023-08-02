@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JosephMen/ip-address-tracker.git)
-- Live Site URL: [Add live site URL here](https://ip-tracker-frander.netlify.app/)
+- Solution URL: [Github](https://github.com/JosephMen/ip-address-tracker.git)
+- Live Site URL: [Deploy site](https://ip-tracker-frander.netlify.app/)
 
 ## My process
 
